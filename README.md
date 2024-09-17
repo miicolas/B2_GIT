@@ -1,1 +1,1 @@
-# B2_GIT
+# Introduction Git et Github
